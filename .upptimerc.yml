@@ -9,7 +9,7 @@ sites:
     icon: https://anthares101.com/assets/favicon.png
   - name: CTFNote
     url: $CTFNOTE_URL
-    icon: $CTFNOTE_URL/favicon.png
+    icon: https://raw.githubusercontent.com/TFNS/CTFNote/main/front/public/favicon.png
   - name: Plex Server
     url: $PLEX_URL
     icon: https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png
