@@ -2,7 +2,6 @@
 owner: anthares101
  # Your GitHub organization or username, where this repository lives
 repo: status-page
-user-agent: anthares101
 
 sites:
   - name: Anthares WriteUps
