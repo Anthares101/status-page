@@ -6,6 +6,7 @@ repo: status-page
 sites:
   - name: Anthares WriteUps
     url: https://anthares101.com/
+    icon: https://anthares101.com/assets/favicon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,8 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/anthares101/status-page/master/assets/upptime-icon.svg
   name: Anthares101 Status Page
-  introTitle:
-  introMessage:
+  theme: dark
   navbar:
     - title: Status
       href: /
