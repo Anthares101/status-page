@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/anthares101/status-page/master/assets/upptime-icon.svg
   name: Anthares101 Status Page
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
