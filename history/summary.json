@@ -2,7 +2,7 @@
   {
     "name": "Anthares WriteUps",
     "url": "https://anthares101.com/",
-    "icon": "https://favicons.githubusercontent.com/anthares101.com",
+    "icon": "https://anthares101.com/assets/favicon.png",
     "slug": "anthares-write-ups",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 173,
-    "timeWeek": 173,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "time": 185,
+    "timeDay": 185,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   }
 ]
