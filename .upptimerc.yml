@@ -8,7 +8,7 @@ sites:
     url: https://anthares101.com/
     icon: https://anthares101.com/assets/favicon.png
   - name: CTFNote
-    url: $CTFNOTE_URL/#/auth/login
+    url: $CTFNOTE_URL
     icon: $CTFNOTE_URL/favicon.svg
   - name: Plex Server
     url: $PLEX_URL
