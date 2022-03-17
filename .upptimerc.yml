@@ -11,11 +11,8 @@ sites:
     url: $CTFNOTE_URL
     icon: https://raw.githubusercontent.com/TFNS/CTFNote/main/front/public/favicon.png
   - name: Plex Server
-    url: $PLEX_URL
+    url: $PLEX_URL/web
     icon: https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png
-    expectedStatusCodes:
-      - 200
-      - 401
   - name: Minecraft Server
     check: "tcp-ping"
     icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png
