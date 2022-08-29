@@ -7,6 +7,9 @@ sites:
   - name: Anthares WriteUps
     url: https://anthares101.com/
     icon: https://anthares101.com/assets/favicon.png
+  - name: Raptor Blog
+    url: https://blog.anthares101.com/
+    icon: https://blog.anthares101.com/favicon-16x16.png
   - name: CTFNote
     url: $CTFNOTE_URL
     icon: https://raw.githubusercontent.com/TFNS/CTFNote/main/front/public/favicon.png
