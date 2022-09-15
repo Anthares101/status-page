@@ -4,9 +4,9 @@
     "url": "https://anthares101.com/",
     "icon": "https://anthares101.com/assets/favicon.png",
     "slug": "anthares-write-ups",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 115,
     "timeMonth": 118,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Raptor Blog",
     "url": "https://blog.anthares101.com/",
     "icon": "https://blog.anthares101.com/favicon-16x16.png",
     "slug": "raptor-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 122,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "CTFNote",
