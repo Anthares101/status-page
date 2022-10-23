@@ -40,9 +40,9 @@
     "url": "$CTFNOTE_URL",
     "icon": "https://raw.githubusercontent.com/TFNS/CTFNote/main/front/public/favicon.png",
     "slug": "ctf-note",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 668,
     "timeMonth": 622,
     "timeYear": 639,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-23": 0
+    }
   },
   {
     "name": "Plex Server",
