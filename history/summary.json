@@ -40,45 +40,49 @@
     "url": "$CTFNOTE_URL",
     "icon": "https://raw.githubusercontent.com/TFNS/CTFNote/main/front/public/favicon.png",
     "slug": "ctf-note",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 740,
-    "timeWeek": 652,
-    "timeMonth": 644,
-    "timeYear": 636,
-    "dailyMinutesDown": {}
+    "time": 635,
+    "timeDay": 402,
+    "timeWeek": 593,
+    "timeMonth": 627,
+    "timeYear": 635,
+    "dailyMinutesDown": {
+      "2023-01-11": 0
+    }
   },
   {
     "name": "Plex Server",
     "url": "$PLEX_URL/web",
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 913,
-    "timeDay": 980,
-    "timeWeek": 988,
-    "timeMonth": 960,
-    "timeYear": 913,
-    "dailyMinutesDown": {}
+    "time": 911,
+    "timeDay": 633,
+    "timeWeek": 917,
+    "timeMonth": 941,
+    "timeYear": 911,
+    "dailyMinutesDown": {
+      "2023-01-11": 0
+    }
   },
   {
     "name": "Minecraft Server",
     "url": "$MINECRAFT_SERVER_DOMAIN",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png",
     "slug": "minecraft-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +91,8 @@
     "timeWeek": 150,
     "timeMonth": 139,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-11": 0
+    }
   }
 ]
