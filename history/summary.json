@@ -60,9 +60,9 @@
     "slug": "plex-server",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 912,
     "timeDay": 1057,
@@ -70,7 +70,7 @@
     "timeMonth": 947,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2023-01-15": 0
+      "2023-01-15": 11
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "$MINECRAFT_SERVER_DOMAIN",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png",
     "slug": "minecraft-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 156,
-    "timeWeek": 139,
+    "timeWeek": 141,
     "timeMonth": 141,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2023-01-15": 0
+      "2023-01-15": 11
     }
   }
 ]
