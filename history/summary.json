@@ -58,19 +58,19 @@
     "url": "$PLEX_URL/web",
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png",
     "slug": "plex-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 912,
-    "timeDay": 1057,
-    "timeWeek": 897,
-    "timeMonth": 947,
+    "timeDay": 961,
+    "timeWeek": 893,
+    "timeMonth": 945,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2023-01-15": 11
+      "2023-01-15": 36
     }
   },
   {
@@ -80,17 +80,15 @@
     "slug": "minecraft-server",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 156,
     "timeWeek": 141,
     "timeMonth": 141,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2023-01-15": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
