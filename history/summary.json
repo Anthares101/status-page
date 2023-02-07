@@ -41,22 +41,17 @@
     "icon": "https://raw.githubusercontent.com/TFNS/CTFNote/main/front/public/favicon.png",
     "slug": "ctf-note",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.92%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 630,
     "timeDay": 422,
     "timeWeek": 593,
     "timeMonth": 577,
     "timeYear": 630,
-    "dailyMinutesDown": {
-      "2023-02-04": 43,
-      "2023-01-25": 22,
-      "2023-01-24": 211,
-      "2023-01-23": 117
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plex Server",
@@ -64,26 +59,18 @@
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.93%",
     "uptimeDay": "77.40%",
-    "uptimeWeek": "94.97%",
-    "uptimeMonth": "97.79%",
-    "uptimeYear": "99.79%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.93%",
     "time": 911,
     "timeDay": 685,
     "timeWeek": 799,
     "timeMonth": 906,
     "timeYear": 911,
     "dailyMinutesDown": {
-      "2023-02-07": 325,
-      "2023-02-04": 87,
-      "2023-02-01": 96,
-      "2023-01-25": 21,
-      "2023-01-24": 229,
-      "2023-01-23": 135,
-      "2023-01-22": 25,
-      "2023-01-19": 15,
-      "2023-01-15": 36
+      "2023-02-07": 325
     }
   },
   {
@@ -91,22 +78,19 @@
     "url": "$MINECRAFT_SERVER_DOMAIN",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png",
     "slug": "minecraft-server",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "77.39%",
-    "uptimeWeek": "96.58%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "76.39%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.93%",
     "time": 127,
-    "timeDay": 118,
-    "timeWeek": 113,
-    "timeMonth": 127,
+    "timeDay": 146,
+    "timeWeek": 120,
+    "timeMonth": 128,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2023-02-07": 326,
-      "2023-02-04": 19,
-      "2023-01-24": 184,
-      "2023-01-23": 75
+      "2023-02-07": 340
     }
   }
 ]
