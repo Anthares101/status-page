@@ -40,11 +40,11 @@
     "url": "$CTFNOTE_URL",
     "icon": "https://raw.githubusercontent.com/TFNS/CTFNote/main/front/public/favicon.png",
     "slug": "ctf-note",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 622,
     "timeDay": 566,
@@ -52,7 +52,7 @@
     "timeMonth": 585,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2023-07-26": 10,
+      "2023-07-26": 0,
       "2023-06-21": 52
     }
   },
