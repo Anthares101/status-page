@@ -76,9 +76,9 @@
     "url": "$MINECRAFT_SERVER_DOMAIN",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png",
     "slug": "minecraft-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 141,
     "timeMonth": 149,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-31": 0
+    }
   }
 ]
