@@ -42,9 +42,9 @@
     "slug": "ctf-note",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 624,
     "timeDay": 493,
@@ -52,7 +52,7 @@
     "timeMonth": 572,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2023-09-13": 0
+      "2023-09-13": 17
     }
   },
   {
@@ -62,9 +62,9 @@
     "slug": "plex-server",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 892,
     "timeDay": 762,
@@ -72,7 +72,7 @@
     "timeMonth": 923,
     "timeYear": 894,
     "dailyMinutesDown": {
-      "2023-09-13": 0
+      "2023-09-13": 17
     }
   },
   {
