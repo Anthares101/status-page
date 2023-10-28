@@ -62,17 +62,19 @@
     "url": "$PLEX_URL/web",
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 893,
+    "time": 892,
     "timeDay": 817,
     "timeWeek": 883,
     "timeMonth": 894,
     "timeYear": 883,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-28": 0
+    }
   }
 ]
