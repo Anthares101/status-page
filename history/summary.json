@@ -89,19 +89,19 @@
     "url": "$MINECRAFT_SERVER_DOMAIN",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png",
     "slug": "minecraft-server",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
     "time": 136,
-    "timeDay": 107,
-    "timeWeek": 107,
-    "timeMonth": 107,
+    "timeDay": 144,
+    "timeWeek": 144,
+    "timeMonth": 144,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 10
     }
   }
 ]
