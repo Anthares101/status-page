@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 60,
-    "timeWeek": 113,
-    "timeMonth": 160,
+    "timeDay": 181,
+    "timeWeek": 137,
+    "timeMonth": 162,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 166,
-    "timeWeek": 303,
-    "timeMonth": 164,
-    "timeYear": 135,
+    "time": 139,
+    "timeDay": 173,
+    "timeWeek": 296,
+    "timeMonth": 165,
+    "timeYear": 136,
     "dailyMinutesDown": {
       "2023-10-03": 21
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 582,
-    "timeDay": 281,
-    "timeWeek": 430,
-    "timeMonth": 451,
-    "timeYear": 553,
+    "time": 581,
+    "timeDay": 360,
+    "timeWeek": 441,
+    "timeMonth": 456,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2024-01-15": 17,
       "2023-11-28": 140,
@@ -72,10 +72,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 856,
-    "timeDay": 402,
-    "timeWeek": 593,
-    "timeMonth": 627,
-    "timeYear": 823,
+    "timeDay": 497,
+    "timeWeek": 608,
+    "timeMonth": 634,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2024-01-15": 17,
       "2023-11-15": 56,
@@ -83,5 +83,23 @@
       "2023-10-31": 25,
       "2023-10-28": 26
     }
+  },
+  {
+    "name": "Minecraft Server",
+    "url": "$MINECRAFT_SERVER_DOMAIN",
+    "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png",
+    "slug": "minecraft-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 136,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 134,
+    "dailyMinutesDown": {}
   }
 ]
