@@ -16,6 +16,11 @@ sites:
   - name: Plex Server
     url: $PLEX_URL/web
     icon: https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png
+  - name: Minecraft Server
+    check: "tcp-ping"
+    icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png
+    url: $MINECRAFT_SERVER_DOMAIN
+    port: $MINECRAFT_SERVER_PORT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
