@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 126,
-    "timeWeek": 111,
-    "timeMonth": 135,
+    "time": 135,
+    "timeDay": 207,
+    "timeWeek": 125,
+    "timeMonth": 138,
     "timeYear": 134,
     "dailyMinutesDown": {}
   },
@@ -28,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 84,
-    "timeWeek": 112,
-    "timeMonth": 133,
+    "time": 136,
+    "timeDay": 205,
+    "timeWeek": 122,
+    "timeMonth": 137,
     "timeYear": 134,
-    "dailyMinutesDown": {
-      "2023-10-03": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CTFNote",
@@ -43,22 +41,17 @@
     "icon": "https://raw.githubusercontent.com/TFNS/CTFNote/main/front/public/favicon.png",
     "slug": "ctf-note",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 555,
-    "timeDay": 362,
-    "timeWeek": 412,
-    "timeMonth": 467,
-    "timeYear": 527,
-    "dailyMinutesDown": {
-      "2024-01-15": 17,
-      "2023-11-28": 140,
-      "2023-11-15": 56,
-      "2023-10-03": 15
-    }
+    "timeDay": 581,
+    "timeWeek": 417,
+    "timeMonth": 472,
+    "timeYear": 526,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plex Server",
@@ -66,46 +59,36 @@
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 817,
-    "timeDay": 723,
-    "timeWeek": 606,
-    "timeMonth": 656,
-    "timeYear": 772,
-    "dailyMinutesDown": {
-      "2024-01-15": 17,
-      "2023-11-15": 56,
-      "2023-11-01": 52,
-      "2023-10-31": 25,
-      "2023-10-28": 26
-    }
+    "uptimeYear": "100.00%",
+    "time": 816,
+    "timeDay": 774,
+    "timeWeek": 608,
+    "timeMonth": 662,
+    "timeYear": 771,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minecraft Server",
     "url": "$MINECRAFT_SERVER_DOMAIN",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png",
     "slug": "minecraft-server",
-    "status": "down",
-    "uptime": "98.61%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "98.61%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
     "time": 133,
-    "timeDay": 108,
-    "timeWeek": 118,
+    "timeDay": 106,
+    "timeWeek": 112,
     "timeMonth": 130,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-03-24": 0,
-      "2024-03-03": 802,
-      "2024-02-18": 493,
-      "2024-02-10": 27,
-      "2024-01-28": 61
+      "2024-03-24": 31
     }
   }
 ]
