@@ -1,7 +1,7 @@
 url: $CTFNOTE_URL
-status: down
-code: 530
-responseTime: 98
-lastUpdated: 2024-07-07T18:30:40.882Z
+status: up
+code: 200
+responseTime: 515
+lastUpdated: 2024-07-07T19:09:06.389Z
 startTime: 2022-03-16T17:41:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
