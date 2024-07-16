@@ -58,18 +58,20 @@
     "url": "$PLEX_URL/web",
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 659,
-    "timeWeek": 555,
-    "timeMonth": 612,
-    "timeYear": 709,
-    "dailyMinutesDown": {}
+    "time": 749,
+    "timeDay": 560,
+    "timeWeek": 546,
+    "timeMonth": 608,
+    "timeYear": 708,
+    "dailyMinutesDown": {
+      "2024-07-16": 0
+    }
   },
   {
     "name": "Minecraft Server",
