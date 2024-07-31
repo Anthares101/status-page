@@ -40,19 +40,19 @@
     "url": "$VAULTWARDEN_URL",
     "icon": "https://raw.githubusercontent.com/dani-garcia/vaultwarden/main/resources/vaultwarden-icon.svg",
     "slug": "vaultwarden",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1440,
     "timeDay": 9968,
     "timeWeek": 3233,
     "timeMonth": 1440,
     "timeYear": 1440,
     "dailyMinutesDown": {
-      "2024-07-31": 10
+      "2024-07-31": 2
     }
   },
   {
@@ -60,18 +60,20 @@
     "url": "$PLEX_URL/web",
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 741,
+    "time": 740,
     "timeDay": 856,
     "timeWeek": 825,
     "timeMonth": 631,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-31": 0
+    }
   },
   {
     "name": "Minecraft Server",
