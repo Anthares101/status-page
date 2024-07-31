@@ -40,19 +40,19 @@
     "url": "$VAULTWARDEN_URL",
     "icon": "https://raw.githubusercontent.com/dani-garcia/vaultwarden/main/resources/vaultwarden-icon.svg",
     "slug": "vaultwarden",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 2166,
-    "timeDay": 10059,
-    "timeWeek": 4617,
-    "timeMonth": 2166,
-    "timeYear": 2166,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 2873,
+    "timeDay": 12016,
+    "timeWeek": 6001,
+    "timeMonth": 2873,
+    "timeYear": 2873,
     "dailyMinutesDown": {
-      "2024-07-31": 22
+      "2024-07-31": 43
     }
   },
   {
